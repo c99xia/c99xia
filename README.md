@@ -23,6 +23,7 @@
 <!-- TWO-COLUMN LAYOUT -->
 <table width="100%">
   <tr>
+    <!-- LEFT COLUMN (About Me, My Goal) -->
     <td width="70%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <p>My coursework and lab experience at the Coimbra Engineering School have given me a strong foundation in everything from <strong>TCP/IP principles</strong> to practical system administration on both <strong>Linux and Windows Server</strong>.</p>
@@ -31,6 +32,8 @@
       <h3>🎯 My Goal</h3>
       <p>I am actively seeking an opportunity to put my skills to work and continue my growth as a dedicated network professional.</p>
     </td>
+
+    <!-- RIGHT COLUMN (Your Image) -->
     <td width="30%" valign="top">
       <!-- 
         HOW TO ADD YOUR IMAGE:
