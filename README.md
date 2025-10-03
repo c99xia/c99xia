@@ -1,67 +1,66 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# Hi, I'm [Your Name] 👋
 
-###
+<a href="www.linkedin.com/in/joão-pedro-909935352/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://www.instagram.com/joaopxia/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+I am a detail-oriented Computer Science Engineering student at the **Coimbra Engineering School (ISEC)**, specializing in Networks and Systems. My passion lies in designing, building, and securing the digital infrastructures that power our world.
 
-###
+*   🎓 I'm currently pursuing my degree in **Computer Science Engineering**, where my coursework and labs have provided a strong foundation in network architecture and system administration.
+*   🔧 I thrive on the hands-on challenges of network management. My practical experience includes:
+    *   Designing and testing complex network topologies in virtual environments using **GNS3** and **VMware**.
+    *   Configuring and managing **Cisco IOS** on routers and switches.
+    *   Implementing Layer 2 security features like **DHCP Snooping** and **Dynamic ARP Inspection (DAI)**.
+    *   Administering both **Linux** and **Windows Server** systems.
+    *   Analyzing traffic and troubleshooting with **Wireshark**, and exploring network security on **Kali Linux** with tools like **Ettercap**.
+*   🚀 I am actively seeking an **internship or entry-level position** in Network Engineering, Systems Administration, or a related field where I can apply my problem-solving skills and continue to grow as a professional.
 
-<h1 align="center">hey there 👋</h1>
+---
 
-###
+### 🛠️ My Technical Skills
 
-<h3 align="left">👩‍💻  About Me</h3>
+#### Core Concepts & Protocols
+![TCP/IP](https://img.shields.io/badge/TCP/IP-000?style=for-the-badge&logo=docs.rs)
+![DNS](https://img.shields.io/badge/DNS-8.8.8.8-orange?style=for-the-badge)
+![DHCP](https://img.shields.io/badge/DHCP-blue?style=for-the-badge)
+![SSH](https://img.shields.io/badge/SSH-333?style=for-the-badge)
+![ICMP](https://img.shields.io/badge/ICMP-grey?style=for-the-badge)
+![VLANs](https://img.shields.io/badge/VLANs-blueviolet?style=for-the-badge)
 
-###
+#### Network Hardware & Operating Systems
+![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![VyOS](https://img.shields.io/badge/VyOS-523888?style=for-the-badge)
+![Firewalls](https://img.shields.io/badge/Firewall_Rules-D22A1B?style=for-the-badge)
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+#### System Administration
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-###
+#### Virtualization & Simulation
+![GNS3](https://img.shields.io/badge/GNS3-1E5A93?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-<h3 align="left">🛠 Language and tools</h3>
+#### Security & Analysis Tools
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ettercap](https://img.shields.io/badge/Ettercap-E44C30?style=for-the-badge)
+![DHCPig](https://img.shields.io/badge/DHCPig-orange?style=for-the-badge)
+![DHCP Snooping](https://img.shields.io/badge/DHCP_Snooping-118f40?style=for-the-badge)
+![Dynamic ARP Inspection](https://img.shields.io/badge/DAI-118f40?style=for-the-badge)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+### 📫 Let's Connect!
 
-###
+I'm always open to connecting with fellow students, professionals, and recruiters. Feel free to reach out!
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+*   **LinkedIn:** [https://www.linkedin.com/in/joão-pedro-909935352//](https://www.linkedin.com/in/joão-pedro-909935352/)
+*   **Email:** [joaopedroxia@outlook.pt](mailto:joaopedroxia@outlook.pt)
