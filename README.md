@@ -32,7 +32,13 @@
       <p>I am actively seeking an opportunity to put my skills to work and continue my growth as a dedicated network professional.</p>
     </td>
     <td width="30%" valign="top">
-      <!-- Upload your image to the repo and paste the URL here -->
+      <!-- 
+        HOW TO ADD YOUR IMAGE:
+        1. Upload an image to this repository.
+        2. Click on the image file.
+        3. Click the "Download" button and copy the URL from your browser's address bar.
+        4. Paste the URL in the `src` attribute below.
+      -->
       <img src="[URL_TO_YOUR_IMAGE.jpg]" alt="Your Name" width="100%" />
     </td>
   </tr>
@@ -52,11 +58,4 @@
   <img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=hyperv&logoColor=white" alt="Hyper-V"/>
 </p>
 
----
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Xia's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<!-- The GitHub stats section is missing from your image, you can add it back if you like -->
