@@ -35,7 +35,7 @@ I am a detail-oriented Computer Science Engineering student at the **Coimbra Eng
 ![VLANs](https://img.shields.io/badge/VLANs-blueviolet?style=for-the-badge)
 
 #### Network Hardware & Operating Systems
-![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+[![Cisco IOS](https://i.imgur.com/link-para-o-logo-cisco.png)](https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-software/index.html)
 ![VyOS](https://img.shields.io/badge/VyOS-523888?style=for-the-badge)
 ![Firewalls](https://img.shields.io/badge/Firewall_Rules-D22A1B?style=for-the-badge)
 
