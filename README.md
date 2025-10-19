@@ -13,14 +13,41 @@
 
 I am a detail-oriented Computer Science Engineering student at the **Coimbra Engineering School (ISEC)**, specializing in Networks and Systems. My passion lies in designing, building, and securing the digital infrastructures that power our world.
 
-*   🎓 I'm currently pursuing my degree in **Computer Science Engineering**, where my coursework and labs have provided a strong foundation in network architecture and system administration.
-*   🔧 I thrive on the hands-on challenges of network management. My practical experience includes:
-    *   Designing and testing complex network topologies in virtual environments using **GNS3** and **VMware**.
-    *   Configuring and managing **Cisco IOS** on routers and switches.
-    *   Implementing Layer 2 security features like **DHCP Snooping** and **Dynamic ARP Inspection (DAI)**.
-    *   Administering both **Linux** and **Windows Server** systems.
-    *   Analyzing traffic and troubleshooting with **Wireshark**, and exploring network security on **Kali Linux** with tools like **Ettercap**.
-*   🚀 I am actively seeking an **internship or entry-level position** in Network Engineering, Systems Administration, or a related field where I can apply my problem-solving skills and continue to grow as a professional.
+---
+
+### 🔧 My Hands-On Experience in Detail
+
+#### 🏗️ Physical Infrastructure & Structured Cabling
+I believe that a robust network begins with a solid physical foundation. In a Structured Cabling course, I was responsible for designing a complex corporate network infrastructure from scratch.
+* **Project:** Planning the network for a company with 3 multi-story buildings (3 floors each), strictly adhering to the **ISO/IEC 11801** standard.
+* **Implementation:** The project involved designing the fiber optic backbone to interconnect the buildings, defining the horizontal copper twisted-pair cabling, and accurately calculating all necessary equipment: access and core switches, routers, and Access Points (APs) to ensure full coverage. This experience gave me a holistic view of network design.
+
+#### 🌐 Routing Protocols & Essential Network Services
+With the physical foundation established, I delved into the "brain" of the network: routing and services.
+* **Advanced Routing:** I have hands-on experience configuring and diagnosing a wide range of routing protocols in both IPv4 and IPv6 environments using **GNS3**. This includes **RIP/RIPv2, EIGRP/EIGRPv6, OSPF/OSPFv3**, and implementing **static routing**, which is crucial for ISP connectivity scenarios.
+* **Network Services:** In a practical environment that combined simulation in **Cisco Packet Tracer** with real implementation on virtual machines (**Windows 11 Client** and **Windows Server**), I configured and managed vital network services such as **DNS, DHCP, NTP, Proxy**, and **NAT**. This dual approach solidified my ability to translate theory into practice.
+
+#### 🛡️ Network Security
+My approach to security is fundamentally hands-on. In a cybersecurity-focused course, I participated in "Red Team vs. Blue Team" scenarios.
+* **Attack Phase (Red Team):** Using **Kali Linux** VMs, I executed controlled attacks against a simulated corporate network in **GNS3**. Tools like **Nmap, Ettercap, Yersinia**, and **DHCPig** were used to identify and exploit vulnerabilities.
+* **Defense Phase (Blue Team):** After understanding the attack vectors, my focus shifted to defense. I implemented **firewalls** and Layer 2 security mechanisms like **DHCP Snooping** and **Dynamic ARP Inspection (DAI)** to mitigate and prevent the previously executed attacks. This experience gave me a complete perspective on the importance of a proactive defense.
+
+#### 👨‍💻 Beyond the Network: Systems Programming (Windows & Linux)
+While my primary focus is on networks, my passion for technology has led me to explore low-level systems programming, where software meets hardware. This area has given me a fundamental understanding of concurrency, synchronization, and inter-process communication.
+
+* **Concurrent Programming with the Win32 API (in C):** I developed a multi-threaded application (a word game) in a Windows environment. The main technical challenge was concurrency management. To overcome it, I implemented a wide range of synchronization primitives from the Win32 API, including:
+    * **Threads** for parallel execution.
+    * **Mutexes**, **Semaphores**, and **Critical Sections** to ensure mutual exclusion and protect shared resources from race conditions.
+    * **Pipes** for secure inter-process communication.
+    * Functions like **WaitForSingleObject** and **WaitForMultipleObjects** to orchestrate and synchronize the program's execution flow between threads.
+
+* **Client-Server Architecture with the Linux API (in C):** In another significant project, I developed a client-server application in a Linux environment, capable of managing multiple client connections simultaneously. The key feature of this project was the implementation of a single-threaded concurrency model based on I/O multiplexing with the **`select()`** system call. This approach allowed the server to handle numerous clients efficiently without the overhead of creating a thread per client. For synchronization and communication, I used **pipes** and **mutexes**.
+
+These two experiences, on both Windows and Linux, have given me a deep and practical understanding of different concurrency models and the complex challenges of systems programming.
+
+---
+
+* 🚀 **Professional Goal:** I am now focused on applying this comprehensive academic and practical foundation to an **internship or entry-level position** in Network Engineering, Systems Administration, or Cybersecurity. I am a natural problem-solver, a team player, and I am eager to contribute to challenging projects.
 
 ---
 ## ⚔️ My Technical Skills
@@ -58,7 +85,6 @@ I am a detail-oriented Computer Science Engineering student at the **Coimbra Eng
 [![Firewalls & ACLs](https://img.shields.io/badge/Firewalls_&_ACLs-D22B2B?style=for-the-badge&logo=paloaltosoftware&logoColor=white)](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/sec_data_acl/configuration/15-mt/sec-data-acl-15-mt-book.html)
 [![IDS/IPS](https://img.shields.io/badge/IDS/IPS-4A90E2?style=for-the-badge&logo=snort&logoColor=white)](https://www.snort.org/)
 [![ZeroTier (VPN)](https://img.shields.io/badge/ZeroTier_VPN-FF9900?style=for-the-badge&logo=zerotier&logoColor=black)](https://www.zerotier.com/)
-[![L2 Security](https://img.shields.io/badge/L2_Security-00A98F?style=for-the-badge&logo=arista&logoColor=white)](https://www.practicalnetworking.net/series/layer-2-security/layer-2-security-attacks/)
 [![Nmap](https://img.shields.io/badge/Nmap-085394?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Ettercap](https://img.shields.io/badge/Ettercap-E0E0E0?style=for-the-badge&logo=kalilinux&logoColor=black)](https://www.ettercap-project.org/)
 [![Yersinia](https://img.shields.io/badge/Yersinia-000000?style=for-the-badge&logo=kalilinux&logoColor=white)](https://tools.kali.org/information-gathering/yersinia)
@@ -77,8 +103,6 @@ I am a detail-oriented Computer Science Engineering student at the **Coimbra Eng
 ---
 
 ### 📫 Let's Connect!
-
-I'm always open to connecting with fellow students, professionals, and recruiters. Feel free to reach out!
 
 *   **LinkedIn:** [https://www.linkedin.com/in/joão-pedro-909935352//](https://www.linkedin.com/in/joão-pedro-909935352/)
 *   **Email:** [joaopedroxia@outlook.pt](mailto:joaopedroxia@outlook.pt)
