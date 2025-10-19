@@ -35,7 +35,7 @@ I am a detail-oriented Computer Science Engineering student at the **Coimbra Eng
 [![NTP](https://img.shields.io/badge/NTP-663399?style=for-the-badge&logo=chrony&logoColor=white)](https://www.ntp.org/)
 [![VLANs & Trunking](https://img.shields.io/badge/VLANs_&_Trunking-00979D?style=for-the-badge&logo=ieee&logoColor=white)](https://www.juniper.net/documentation/en_US/junos/topics/concept/vlans-ex-series-understanding.html)
 [![NAT & PAT](https://img.shields.io/badge/NAT_&_PAT-FF6A00?style=for-the-badge&logo=fortinet&logoColor=white)](https://www.geeksforgeeks.org/network-address-translation-nat/)
-[![Structured Cabling](https://img.shields.io/badge/Cablagem_Estruturada-C4C4C4?style=for-the-badge&logo=ieee&logoColor=black)]([https://www.iso.org/standard/66182.html)
+[![Structured Cabling](https://img.shields.io/badge/Cablagem_Estruturada-C4C4C4?style=for-the-badge&logo=ieee&logoColor=black)](https://www.iso.org/standard/66182.html)
 
 #### 💻 Network Hardware & Operating Systems
 [![Cisco IOS](https://img.shields.io/badge/Cisco_IOS-005073?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-software/index.html)
