@@ -27,8 +27,10 @@ I am a detail-oriented Computer Science Engineering student at the **Coimbra Eng
 ### 🛠️ My Technical Skills
 
 #### Core Concepts & Protocols
+
 <a href="https://www.ietf.org/rfc/rfc793.txt" target="_blank">
-![TCP/IP](https://img.shields.io/badge/TCP/IP-000?style=for-the-badge&logo=docs.rs)
+![alt text](https://img.shields.io/badge/TCP/IP-000?style=for-the-badge&logo=docs.rs)
+</a>
 ![DNS](https://img.shields.io/badge/DNS-8.8.8.8-orange?style=for-the-badge)
 ![DHCP](https://img.shields.io/badge/DHCP-blue?style=for-the-badge)
 ![SSH](https://img.shields.io/badge/SSH-333?style=for-the-badge)
