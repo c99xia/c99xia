@@ -50,7 +50,7 @@ I am a detail-oriented Computer Science Engineering student at the **Coimbra Eng
 ![GNS3](https://img.shields.io/badge/GNS3-1E5A93?style=for-the-badge)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)(https://www.proxmox.com/)
+[![Proxmox](https://img.shields.io/badge/Proxmox-E67300?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
 
 
 #### Security & Analysis Tools
